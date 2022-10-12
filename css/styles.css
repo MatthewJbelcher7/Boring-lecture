@@ -1,0 +1,9 @@
+.intro {
+  color: red;
+  text-align: center;
+}
+
+h1.intro {
+  font-family: cursive;
+  color: blue;
+}
